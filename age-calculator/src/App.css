@@ -1,0 +1,9 @@
+/* src/App.css */
+.age-calculator {
+  text-align: center;
+}
+
+input {
+  width: 200px;
+  padding: 5px;
+}
